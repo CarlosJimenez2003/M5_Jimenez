@@ -1,0 +1,18 @@
+
+# Ignorar archivos de configuración locales
+.vscode/
+.idea/
+
+# Ignorar archivos compilados o generados
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar archivos de dependencias de paquetes
+/node_modules/
+/packages/
+
+# Ignorar archivos temporales o de respaldo
+*.bak
+*.swp
